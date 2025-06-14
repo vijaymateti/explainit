@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+transformers
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+pytest
+httpx
